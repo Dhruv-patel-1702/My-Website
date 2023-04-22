@@ -145,6 +145,7 @@ nav .menu-btn ion-icon {
 }
 
 .content-section h1 {
+  font-family: inherit;
   font-weight: 400;
   font-size: 90px;
   color: white;
